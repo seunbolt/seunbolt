@@ -8,7 +8,7 @@ My name is Oluwaseun, I’m  a Software Engineer.
 <a href="www.linkedin.com/in/oluwaseun-adebayo-755596281">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href=""mailto:seunbolt@gmail.com">
+<a href="mailto:seunbolt@gmail.com">
     <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="https://twitter.com/oluwaseun_se">
